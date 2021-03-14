@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-plugins-adapter",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "author": "Giorgio Garasto <giorgio@garasto.me>",
