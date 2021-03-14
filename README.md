@@ -6,12 +6,12 @@ A simple adapter that allows to use any remark plugin with Gatsby.
 
 With npm:
 ```
-npm install remark-uml unified
+npm install gatsby-remark-plugins-adapter unified
 ```
 
 With yarn:
 ```
-yarn add remark-uml unified
+yarn add gatsby-remark-plugins-adapter unified
 ```
 
 ## Use
